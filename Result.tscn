@@ -1,0 +1,10 @@
+[gd_scene format=2]
+
+[node name="Result" type="Node2D"]
+
+[node name="Label" type="Label" parent="."]
+margin_top = 300.0
+margin_right = 1020.0
+margin_bottom = 314.0
+text = "If you reached to the top and saw a rock on a large block, then you won. If you did not, then you lost."
+align = 1
